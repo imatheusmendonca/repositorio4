@@ -1,0 +1,10 @@
+C:\Users\matheus.mtsouza3\source\repos\exercicio1-7dez\exercicio1-7dez\bin\Debug\exercicio1-7dez.exe.config
+C:\Users\matheus.mtsouza3\source\repos\exercicio1-7dez\exercicio1-7dez\bin\Debug\exercicio1-7dez.exe
+C:\Users\matheus.mtsouza3\source\repos\exercicio1-7dez\exercicio1-7dez\bin\Debug\exercicio1-7dez.pdb
+C:\Users\matheus.mtsouza3\source\repos\exercicio1-7dez\exercicio1-7dez\obj\Debug\exercicio1-7dez.csproj.AssemblyReference.cache
+C:\Users\matheus.mtsouza3\source\repos\exercicio1-7dez\exercicio1-7dez\obj\Debug\exercicio1-7dez.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.mtsouza3\source\repos\exercicio1-7dez\exercicio1-7dez\obj\Debug\exercicio1_7dez.Properties.Resources.resources
+C:\Users\matheus.mtsouza3\source\repos\exercicio1-7dez\exercicio1-7dez\obj\Debug\exercicio1-7dez.csproj.GenerateResource.cache
+C:\Users\matheus.mtsouza3\source\repos\exercicio1-7dez\exercicio1-7dez\obj\Debug\exercicio1-7dez.csproj.CoreCompileInputs.cache
+C:\Users\matheus.mtsouza3\source\repos\exercicio1-7dez\exercicio1-7dez\obj\Debug\exercicio1-7dez.exe
+C:\Users\matheus.mtsouza3\source\repos\exercicio1-7dez\exercicio1-7dez\obj\Debug\exercicio1-7dez.pdb
